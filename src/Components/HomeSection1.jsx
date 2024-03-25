@@ -49,7 +49,7 @@ const HomeSection1 = () => {
             Fotory ilə paylaşın.
           </p>
           <button className=" mt-6 lg:mt-11 w-[160px] p-[16px] bg-[#30980D] rounded-[12px] outline-none  flex items-center justify-center "  >
-            <Link  target="_blank" to='https://wa.me/9945530915091' className="text-whiteColor font-bold font-int leading-5 text-[17px]">
+            <Link  target="_blank" to='https://wa.me/994553091509' className="text-whiteColor font-bold font-int leading-5 text-[17px]">
               Sifariş et!
             </Link>
           </button>
