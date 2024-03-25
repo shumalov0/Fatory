@@ -67,7 +67,7 @@ const Header = () => {
         >
           <ul className="  flex flex-col items-center gap-6  lg:gap-[28px]  font-pop font-normal transition-all duration-500 ease-in mt-12">
             <li onClick={handleLinkClick}>
-              <Link className="cursor-pointer" to="/" onClick={handleLinkClick}>Paylaş</Link>
+              <a className="cursor-pointer" target="_blank" href='https://wa.me/9945530915091' onClick={handleLinkClick}>Sifariş et</a>
             </li>
             <li onClick={handleLinkClick}>
               <Link className="cursor-pointer" to="1"
